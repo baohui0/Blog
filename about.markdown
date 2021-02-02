@@ -12,4 +12,4 @@ permalink: /about/
 
 主要语言/技术经历：Java/区块链/Golang，目前准备在云原生领域深耕。
 
-![1612277528125](C:\Users\baohui\AppData\Roaming\Typora\typora-user-images\1612277528125.png)
+![1612278563213](pictures/1612278563213.png)
